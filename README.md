@@ -15,7 +15,7 @@ Passionate about securing decentralized systems and uncovering vulnerabilities i
 - Educating developers on Web3 security best practices  
 
 ### 📫 Connect with Me
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xGlitchxEth)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=black)](https://x.com/0xGlitchxEth)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishaalS7)
 
 

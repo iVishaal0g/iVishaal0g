@@ -19,9 +19,6 @@ Passionate about securing decentralized systems and uncovering vulnerabilities i
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishaal-s) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0Glitchx) 
 
-### ⚡ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0Glitchx&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0Glitchx&layout=compact&theme=radical)
 
 ---
 ✍️ *Securing Web3, one contract at a time!* 🚀
